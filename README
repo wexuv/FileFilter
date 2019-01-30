@@ -1,1 +1,3 @@
 This tool is used for finding out duplicate files,especially for the backup photograph.
+It traverses input folder and calcultes file's md5 code to identify the duplicate files, 
+and uses a sqlite database to save file info to compare different folders.
